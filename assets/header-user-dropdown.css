@@ -1,0 +1,56 @@
+.header-user-dropdown {
+	background-color:#259EBD;
+	box-shadow:0 1px 1px #ccc;
+	padding: 20px 40px;
+	height: 50px;
+	color: #ffffff;
+
+	box-sizing: border-box;
+}
+
+.header-user-dropdown .header-limiter {
+	max-width: 1200px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+/* Logo */
+
+.header-user-dropdown .header-limiter h1{
+	float: left;
+	font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+	line-height: 20px;
+	margin:0;
+}
+
+.header-user-dropdown .header-limiter h1 span {
+	color: #2e4053 ;
+}
+
+/* The header links */
+
+.header-user-dropdown .header-limiter a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+
+}
+
+.header-user-dropdown .header-limiter nav{
+	font-family: 'Roboto', sans-serif;
+	line-height: 20px;
+	float: left;
+	margin: 0 0 0 20px;
+	padding: 0;
+}
+
+
+/* The user menu */
+
+
+
+
+
+
+
